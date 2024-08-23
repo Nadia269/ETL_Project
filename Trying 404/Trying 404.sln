@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Trying 404", "Trying 404\Trying 404.dtproj", "{1FB376EC-C0B1-4C4B-B89F-8F64149E0FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB376EC-C0B1-4C4B-B89F-8F64149E0FBD}.Development|Default.ActiveCfg = Development
+		{1FB376EC-C0B1-4C4B-B89F-8F64149E0FBD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D2EBD2-74C3-4DA3-BC9F-DE0C863EEC01}
+	EndGlobalSection
+EndGlobal
