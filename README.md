@@ -22,17 +22,17 @@ The dataset used in this analysis is the [Climate Change: Earth Surface Temperat
 
 
 
- Made by:
+   Made by:
 
- Nadia Talaat
+    Nadia Talaat
 
- Reema Hariry
+    Reema Hariry
 
- Jessica Boles
+    Jessica Boles
 
- Mohamed El Sharkawy
+    Mohamed El Sharkawy
 
- Amr Khaled
+    Amr Khaled
 
 
  
