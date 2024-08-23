@@ -19,17 +19,18 @@ The dataset used in this analysis is the [Climate Change: Earth Surface Temperat
 - **Visualization:** Power BI was used to create visualizations, including time series graphs, and geographical maps, to provide a clear and insightful view of the analysis results.
 
 
-Made by:
 
-Nadia Talaat
+ Made by:
 
-Reema Hariry
+ Nadia Talaat
 
-Jessica Boles
+ Reema Hariry
 
-Mohamed El Sharkawy
+ Jessica Boles
 
-Amr Khaled
+ Mohamed El Sharkawy
+
+ Amr Khaled
 
 
  
