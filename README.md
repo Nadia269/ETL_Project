@@ -17,4 +17,18 @@ The dataset used in this analysis is the [Climate Change: Earth Surface Temperat
 - **Data Preparation:** The raw data was first cleaned and transformed using SSIS, ensuring consistency and removing any anomalies. The cleaned data was then loaded into a SQL Server database for further analysis.
 - **Data Analysis:** Queries were written in SSMS to analyze the data, identifying trends in temperature changes over time, detecting patterns in different geographical regions, and understanding seasonal variations.
 - **Visualization:** Power BI was used to create visualizations, including time series graphs, and geographical maps, to provide a clear and insightful view of the analysis results.
+
+
+Made by:
+Nadia Talaat
+
+Reema Hariry
+
+Jessica Boles
+
+Mohamed El Sharkawy
+
+Amr Khaled
+
+
  
